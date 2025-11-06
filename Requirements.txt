@@ -1,4 +1,0 @@
-flask
-request
-beautifulsoup4
-gunicorn
